@@ -58,13 +58,13 @@ Challenge_EN = {
 	Challenge_Challenge2_PermanentBonus = "Permanent Bonus",
 	-- VariousItemWindow
 	Challenge_Challenge2_Carpentry = "Carpentry",
-	Challenge_Challenge2_Health = "Health",
+	Challenge_Challenge2_Health = "Здароў'е",
 	Challenge_Challenge2_ItemButton = "%1 - %2",
 	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
 	-- WeaponRepairWindow
 	Challenge_Challenge2_RepairWeapon = "Repair Weapon",
 	-- WeaponUpWindow
-	Challenge_Challenge2_Health = "Health",
+	Challenge_Challenge2_Health = "Здароў'е",
 
 	Challenge_OpeningHoursInfoBox = " <CENTRE> The Mall opens at 9AM. <LINE> <LINE> Get ready for the crowds...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> In three days the endless winter begins. <LINE> <LINE> Wrap up warm...",
