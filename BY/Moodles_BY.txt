@@ -1,4 +1,4 @@
-Moodles_EN = {
+Moodles_BY = {
 	-- Moodle type :
 	-- Endurance
 	Moodles_endurance_lvl1 = "Moderate Exertion",
@@ -31,20 +31,20 @@ Moodles_EN = {
 	Moodles_tired_lvl3 = "Very Tired",
 	Moodles_tired_lvl4 = "Ridiculously Tired",
 	-- Hungry
-	Moodles_hungry_lvl1 = "Peckish",
+	Moodles_hungry_lvl1 = "Лёгкі голад",
 	Moodles_hungry_lvl2 = "Hungry",
 	Moodles_hungry_lvl3 = "Very Hungry",
 	Moodles_hungry_lvl4 = "Starving",
 	-- Panic
 	Moodles_panic_lvl1 = "Slight Panic",
 	Moodles_panic_lvl2 = "Panic",
-	Moodles_panic_lvl3 = "Strong Panic",
-	Moodles_panic_lvl4 = "Extreme Panic",
+	Moodles_panic_lvl3 = "Моцная паніка",
+	Moodles_panic_lvl4 = "Экстрэмальная паніка",
 	-- Sick
-	Moodles_sick_lvl1 = "Queasy",
-	Moodles_sick_lvl2 = "Nauseous",
-	Moodles_sick_lvl3 = "Sick",
-	Moodles_sick_lvl4 = "Fever",
+	Moodles_sick_lvl1 = "Нядужанне",
+	Moodles_sick_lvl2 = "Млоснасць",
+	Moodles_sick_lvl3 = "Хвароба",
+	Moodles_sick_lvl4 = "Ліхарадка",
 	-- Bored
 	Moodles_bored_lvl1 = "Getting Bored",
 	Moodles_bored_lvl2 = "Bored",
@@ -56,13 +56,13 @@ Moodles_EN = {
 	Moodles_unhappy_lvl3 = "Depressed",
 	Moodles_unhappy_lvl4 = "Severely Depressed",
 	-- Bleeding
-	Moodles_bleeding_lvl1 = "Minor Bleeding",
-	Moodles_bleeding_lvl2 = "Bleeding",
+	Moodles_bleeding_lvl1 = "Нязначны крывацёк",
+	Moodles_bleeding_lvl2 = "Крывацёк",
 	Moodles_bleeding_lvl3 = "Severe Bleeding",
-	Moodles_bleeding_lvl4 = "Massive Blood Loss",
+	Moodles_bleeding_lvl4 = "Вялікая страта крыві",
 	-- Wet
-	Moodles_wet_lvl1 = "Moist",
-	Moodles_wet_lvl2 = "Wet",
+	Moodles_wet_lvl1 = "Вільготна",
+	Moodles_wet_lvl2 = "Мокры",
 	Moodles_wet_lvl3 = "Soaking",
 	Moodles_wet_lvl4 = "Drenched",
 	-- Has a cold
@@ -71,15 +71,15 @@ Moodles_EN = {
 	Moodles_hascold_lvl3 = "You Have a Cold",
 	Moodles_hascold_lvl4 = "You Have a Nasty Cold",
 	-- Injured
-	Moodles_injured_lvl1 = "Discomfort",
-	Moodles_injured_lvl2 = "Injured",
+	Moodles_injured_lvl1 = "Дыскамфорт",
+	Moodles_injured_lvl2 = "Паранены(ая)",
 	Moodles_injured_lvl3 = "Severe Injuries",
-	Moodles_injured_lvl4 = "Critical Injuries",
+	Moodles_injured_lvl4 = "Крытычныя траўмы",
 	-- Pain
 	Moodles_pain_lvl1 = "Minor Pain",
 	Moodles_pain_lvl2 = "Pain",
 	Moodles_pain_lvl3 = "Severe Pain",
-	Moodles_pain_lvl4 = "Agony",
+	Moodles_pain_lvl4 = "Агонія",
 	-- Drunk
 	Moodles_drunk_lvl1 = "A Bit Tipsy",
 	Moodles_drunk_lvl2 = "Inebriated",
@@ -88,14 +88,14 @@ Moodles_EN = {
 	-- Dead
 	Moodles_dead_lvl1 = "Deceased",
 	-- Zombified
-	Moodles_zombie_lvl1 = "Zombified",
+	Moodles_zombie_lvl1 = "Замбіраваны",
 	-- Food eaten
 	Moodles_foodeaten_lvl1 = "Satiated",
 	Moodles_foodeaten_lvl2 = "Well Fed",
 	Moodles_foodeaten_lvl3 = "Stuffed",
 	Moodles_foodeaten_lvl4 = "Full to Bursting",
 	-- Hyperthermia
-	Moodles_hyperthermia_lvl1 = "Unpleasantly Hot",
+	Moodles_hyperthermia_lvl1 = "Непрыемна горача",
 	Moodles_hyperthermia_lvl2 = "Overheated",
 	Moodles_hyperthermia_lvl3 = "Sunstruck",
 	Moodles_hyperthermia_lvl4 = "Hyperthermic",
@@ -137,17 +137,17 @@ Moodles_EN = {
 	Moodles_tired_desc_lvl3 = "Awareness severely reduced.",
 	Moodles_tired_desc_lvl4 = "So tired. So desperately, inhumanly tired.",
 	-- Hungry
-	Moodles_hungry_desc_lvl1 = "Could do with a bite to eat.",
+	Moodles_hungry_desc_lvl1 = "Можна было б перакусіць.",
 	Moodles_hungry_desc_lvl2 = "Could eat a horse right now.",
 	Moodles_hungry_desc_lvl3 = "Reduced strength and healing.",
 	Moodles_hungry_desc_lvl4 = "Health now just falling away...",
 	-- Panic
 	Moodles_panic_desc_lvl1 = "Do your best to remain calm.",
-	Moodles_panic_desc_lvl2 = "Accuracy reduced.",
-	Moodles_panic_desc_lvl3 = "Accuracy severely reduced.",
-	Moodles_panic_desc_lvl4 = "Accuracy and vision severely reduced.",
+	Moodles_panic_desc_lvl2 = "Дакладнасць зніжана.",
+	Moodles_panic_desc_lvl3 = "Дакладнасць значна зніжана.",
+	Moodles_panic_desc_lvl4 = "Дакладнасць і агляд моцна зніжаны.",
 	-- Sickness
-	Moodles_sick_desc_lvl1 = "Take things easy.",
+	Moodles_sick_desc_lvl1 = "Супакойцеся.",
 	Moodles_sick_desc_lvl2 = "Strength and healing reduced.",
 	Moodles_sick_desc_lvl3 = "Strength and healing severely reduced.",
 	Moodles_sick_desc_lvl4 = "Increasing danger of death.",
@@ -162,10 +162,10 @@ Moodles_EN = {
 	Moodles_unhappy_desc_lvl3 = "Ravaged by mourning and desperation.",
 	Moodles_unhappy_desc_lvl4 = "Find a way to forget reality.",
 	-- Bleeding
-	Moodles_bleed_desc_lvl1 = "Bandage required.",
+	Moodles_bleed_desc_lvl1 = "Патрабуецца бінт.",
 	Moodles_bleed_desc_lvl2 = "Strength and speed reduced.",
 	Moodles_bleed_desc_lvl3 = "Strength and speed severely reduced.",
-	Moodles_bleed_desc_lvl4 = "Death imminent.",
+	Moodles_bleed_desc_lvl4 = "Смерць немінучая.",
 	-- Wet
 	Moodles_wet_desc_lvl1 = "Slightly damp. Rain, or sweat?",
 	Moodles_wet_desc_lvl2 = "Sweatier, or even more rained on?",
@@ -177,15 +177,15 @@ Moodles_EN = {
 	Moodles_hasacold_desc_lvl3 = "Sneezing and coughing. Speed and healing reduced.",
 	Moodles_hasacold_desc_lvl4 = "Speed and healing now severely reduced.",
 	-- Injured
-	Moodles_injured_desc_lvl1 = "Something doesn't feel right...",
+	Moodles_injured_desc_lvl1 = "Нешта не так...",
 	Moodles_injured_desc_lvl2 = "Strength and speed reduced.",
 	Moodles_injured_desc_lvl3 = "Strength and speed severely reduced.",
 	Moodles_injured_desc_lvl4 = "Not going gently into that good night...",
 	-- Pain
 	Moodles_pain_desc_lvl1 = "Feeling slight pain.",
-	Moodles_pain_desc_lvl2 = "Speed and accuracy slighty reduced.",
-	Moodles_pain_desc_lvl3 = "Speed and accuracy reduced.",
-	Moodles_pain_desc_lvl4 = "Speed and accuracy severly reduced.",
+	Moodles_pain_desc_lvl2 = "Хуткасць і дакладнасць крыху зніжаны.",
+	Moodles_pain_desc_lvl3 = "Хуткасць і дакладнасць зніжаны.",
+	Moodles_pain_desc_lvl4 = "Хуткасць і дакладнасць значна зніжаны.",
 	-- Heavy load
 	Moodles_heavyload_desc_lvl1 = "Carrying a little too much.",
 	Moodles_heavyload_desc_lvl2 = "Movement speed reduced.",
@@ -199,7 +199,7 @@ Moodles_EN = {
 	-- Dead
 	Moodles_dead_desc_lvl1 = "High risk of becoming rat food.",
 	-- Zombified
-	Moodles_zombified_desc_lvl1 = "Sudden desire to eat people.",
+	Moodles_zombified_desc_lvl1 = "Раптоўнае жаданне есці людзей.",
 	-- Food eaten
 	Moodles_foodeaten_desc_lvl1 = "Gnawing hunger entirely absent.",
 	Moodles_foodeaten_desc_lvl2 = "Tummy full. Goodness making its way through your system.",

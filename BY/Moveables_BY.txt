@@ -1,4 +1,4 @@
-Moveables_EN = {
+Moveables_BY = {
     50s_Barstool = "50s Bar Stool",
     50s_Seat = "50s Seat",
     99_Cent_Sale_Sign = "49 / 99 Cent Sign",
@@ -173,7 +173,7 @@ Moveables_EN = {
     Dixie_Sign = "Dixie Sign",
     Doctor_Degree_Certificate = "Doctor Degree Certificate",
     Dog_House = "Dog House",
-    Door = "Door",
+    Door = "Дзверы",
     Door_Mat_Rug = "Door Mat Rug",
     Double_Stacked_Hay = "Double Stacked Hay",
     Dr_R_B_Mat_Dentistry_Sign = "Dr. R. B. Mat, DMD Dentistry Sign",
@@ -531,7 +531,7 @@ Moveables_EN = {
     SlurpBurp_Soda_Machine = "Slurp Burp Soda Machine",
     Small_Bordeaux_Curtain = "Small Bordeaux Curtain",
     Small_Chest = "Small Chest",
-    Small_Crate = "Small Crate",
+    Small_Crate = "Маленькая скрыня",
     Small_Chrome_Toaster = "Small Chrome Toaster",
     Small_Clothes_Rack = "Small Clothes Rack",
     Small_Green_Curtain = "Small Green Curtain",
@@ -696,7 +696,7 @@ Moveables_EN = {
     
     -- Thumpables without CustomName sprite properties, taken from IsoObject:getName()
     Lamp_on_Pillar = "Lamp on Pillar",
-    Metal_Crate = "Metal Crate",
+    Metal_Crate = "Металічная скрыня",
     Stone_Pile = "Cairn",
     Wooden_Picket = "Wooden Picket",
     Wooden_Stairs = "Wooden Stairs",

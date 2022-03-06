@@ -1,5 +1,5 @@
-Stash_EN = {
-    Stash_AnnotedMap = "Annotated Map",
+Stash_BY = {
+    Stash_AnnotedMap = "Мапа з нататкамі",
     Stash_MulMap1_Text1 = "Here. Floorboards.",
     Stash_MulMap1_Text2 = "axe?",
     Stash_MulMap1_Text3 = "big crowd",

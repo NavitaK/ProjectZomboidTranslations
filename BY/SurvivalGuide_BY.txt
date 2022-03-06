@@ -1,4 +1,4 @@
-SurvivalGuide_EN = {
+SurvivalGuide_BY = {
 	SurvivalGuide_WindowTitle = "ZOMBOID SURVIVAL GUIDE",
 	SurvivalGuide_entrie1title = "#1 - THE BASICS",
 	SurvivalGuide_entrie1txt = " <CENTRE> "<SIZE:large> #1 - CONTROL YOURSELF <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> You're not going to survive long if you don't take some deep breaths, and learn the basics.",
@@ -52,7 +52,7 @@ SurvivalGuide_EN = {
 	SurvivalGuide_entrie8txt = " <CENTRE> "<SIZE:large> #8 - LOOT ASTUTE <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> Managing your inventory quickly and efficiently saves you time - and often, your life!",
 	SurvivalGuide_entrie8moreinfo = " <H1> SELECTING <BR> <TEXT> So how do you rummage, grab, drop and use in Project Zomboid? The primary way is to drag and drop, or alternatively right click to bring up the context menu. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
                                     " Holding LSHIFT will allow you select multiple items. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> Or, why not go CRAZY and drag a square over multiple items with your mouse? <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
-                                    " Double-click something in the loot inventory for a quick grab, or click the quick context button on the right of your selection. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  There's also 'Забраць Усё' if you're so excited that you have to grab EVERYTHING in a container. <LINE> "..
+                                    " Double-click something in the loot inventory for a quick grab, or click the quick context button on the right of your selection. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  There's also 'Забраць усё' if you're so excited that you have to grab EVERYTHING in a container. <LINE> "..
                                     " <BR> <H1> THE GLORY OF BAGS <BR> <TEXT> Bags are important. They help you carry stuff. <BR> To equip one and hurriedly throw your items in: right click and attach it to your primary hand, secondary hand or (with some bags) on your back. "..
                                     " <BR> You'll then see the equipped bag in your inventory, all ready for you to drag and drop your loot into. Vitally, bags will grant you a weight reduction so you can carry more, but be careful: if you put a lot of stuff in your bag, it'll still slow down your movement. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
                                     " <H1> BELTS AND HOTKEYS  <BR> <TEXT> You can equip certain items to your belt, holster, or back. These items will show in the squares at the bottom of the screen, and can be equipped with the hotkey corresponding to the number shown. Other useful hotkeys include:"..

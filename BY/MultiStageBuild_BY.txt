@@ -1,4 +1,4 @@
-MultiStageBuild_EN = {
+MultiStageBuild_BY = {
     -- Wooden Wall
     MultiStageBuild_CreateWoodenWall_1 = "Create Wooden Wall Lvl 1",
     MultiStageBuild_UpgradeWoodenWall_1To2 = "Upgrade to Wooden Wall Lvl 2",
